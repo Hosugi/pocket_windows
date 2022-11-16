@@ -1,0 +1,16 @@
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\bin\Debug\blackjeck.exe.config
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\bin\Debug\blackjeck.exe
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\bin\Debug\blackjeck.pdb
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\obj\Debug\blackjeck.csproj.AssemblyReference.cache
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\obj\Debug\blackjeck.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\obj\Debug\blackjeck.csproj.CoreCompileInputs.cache
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\obj\Debug\blackjeck.exe
+C:\Users\ghtjr\Desktop\C,c++\cpp_proga\blackjeck\blackjeck\obj\Debug\blackjeck.pdb
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\bin\Debug\blackjeck.exe.config
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\bin\Debug\blackjeck.exe
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\bin\Debug\blackjeck.pdb
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Debug\blackjeck.csproj.AssemblyReference.cache
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Debug\blackjeck.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Debug\blackjeck.csproj.CoreCompileInputs.cache
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Debug\blackjeck.exe
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Debug\blackjeck.pdb

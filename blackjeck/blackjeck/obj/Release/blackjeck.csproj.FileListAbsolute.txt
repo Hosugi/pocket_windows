@@ -1,0 +1,8 @@
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\bin\Release\blackjeck.exe.config
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\bin\Release\blackjeck.exe
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\bin\Release\blackjeck.pdb
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Release\blackjeck.csproj.AssemblyReference.cache
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Release\blackjeck.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Release\blackjeck.csproj.CoreCompileInputs.cache
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Release\blackjeck.exe
+C:\Users\ghtjr\Desktop\c#\blackjeck\blackjeck\obj\Release\blackjeck.pdb
