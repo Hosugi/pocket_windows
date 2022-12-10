@@ -11,7 +11,7 @@ typedef struct node {
 	// 다음 노드 주소를 담을 ptr
 }node_t;
 
-void add(node_t** head, int value)
+void add(node_t** head, int value)					//구조체 node_t를 참조하는 포인터'의' 주소, 일반 값
 {
 
 	node_t* new_node = (node_t*)malloc(sizeof(node_t));
