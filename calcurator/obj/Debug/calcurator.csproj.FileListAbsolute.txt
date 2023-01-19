@@ -1,0 +1,11 @@
+D:\Study C Family\c++++\calcurator\calcurator\bin\Debug\calcurator.exe.config
+D:\Study C Family\c++++\calcurator\calcurator\bin\Debug\calcurator.exe
+D:\Study C Family\c++++\calcurator\calcurator\bin\Debug\calcurator.pdb
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.csproj.AssemblyReference.cache
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.csproj.SuggestedBindingRedirects.cache
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.Form1.resources
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.Properties.Resources.resources
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.csproj.GenerateResource.cache
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.csproj.CoreCompileInputs.cache
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.exe
+D:\Study C Family\c++++\calcurator\calcurator\obj\Debug\calcurator.pdb
