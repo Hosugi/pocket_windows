@@ -1,0 +1,8 @@
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\bin\Debug\ChatPro_Server.exe.config
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\bin\Debug\ChatPro_Server.exe
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\bin\Debug\ChatPro_Server.pdb
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\obj\Debug\ChatPro_Server.csproj.AssemblyReference.cache
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\obj\Debug\ChatPro_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\obj\Debug\ChatPro_Server.csproj.CoreCompileInputs.cache
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\obj\Debug\ChatPro_Server.exe
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_Server\obj\Debug\ChatPro_Server.pdb

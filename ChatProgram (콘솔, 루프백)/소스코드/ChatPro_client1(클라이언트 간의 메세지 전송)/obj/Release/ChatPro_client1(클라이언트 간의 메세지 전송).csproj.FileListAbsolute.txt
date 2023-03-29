@@ -1,0 +1,8 @@
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\bin\Release\ChatPro_client1(클라이언트 간의 메세지 전송).exe.config
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\bin\Release\ChatPro_client1(클라이언트 간의 메세지 전송).exe
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\bin\Release\ChatPro_client1(클라이언트 간의 메세지 전송).pdb
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\obj\Release\ChatPro_client1(클라이언트 간의 메세지 전송).csproj.AssemblyReference.cache
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\obj\Release\ChatPro_client1(클라이언트 간의 메세지 전송).csproj.SuggestedBindingRedirects.cache
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\obj\Release\ChatPro_client1(클라이언트 간의 메세지 전송).csproj.CoreCompileInputs.cache
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\obj\Release\ChatPro_client1(클라이언트 간의 메세지 전송).exe
+C:\Users\Hosugi\Desktop\Study C Family\c++++\ChatPro_Server\ChatPro_client1(클라이언트 간의 메세지 전송)\obj\Release\ChatPro_client1(클라이언트 간의 메세지 전송).pdb
